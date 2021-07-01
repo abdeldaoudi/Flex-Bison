@@ -1,0 +1,9 @@
+BEGIN
+
+B := {2,3,5,7};
+C := (A+B)*D;
+afficher(C);
+A := D*(A+B+C);
+afficher(D);
+
+FIN.
